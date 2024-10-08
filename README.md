@@ -87,8 +87,8 @@
             <p><strong>İsim:</strong> Dilan Kaya</p>
             <p><strong>Bölüm:</strong> Yönetim Bilişim Sistemleri</p>
             <p><strong>Sınıf:</strong> 3. sınıf</p>
-            <p><strong>Üniversite:</strong> [Üniversite Adı]</p>
-            <p><strong>İletişim:</strong> [E-posta adresi]</p>
+            <p><strong>Üniversite:</strong> [Işık Üniversitesi]</p>
+            <p><strong>İletişim:</strong> [21yobi1034@isik.edu.tr]</p>
         </div>
 
         <div class="info">
@@ -101,14 +101,11 @@
 
         <div class="info">
             <h2>Projeler</h2>
-            <p>- [Proje 1]: [Proje açıklaması]</p>
-            <p>- [Proje 2]: [Proje açıklaması]</p>
-            <p>- [Proje 3]: [Proje açıklaması]</p>
         </div>
     </section>
 
     <footer>
-        <p>Dilan Kaya &copy; 2024 - Tüm Hakları Saklıdır</p>
+        <p>Dilan Kaya</p>
     </footer>
 
 </body>
